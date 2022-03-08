@@ -1,6 +1,6 @@
-## Blog List
+# Blog List
 
-# December 2021
+## December 2021
 1. [Memory Interleaving](https://www.codingninjas.com/codestudio/library/memory-interleaving) 
 2. [Minimization of ER Diagram](https://www.codingninjas.com/codestudio/library/minimization-of-er-diagram)
 3. [Recursive Relationship](https://www.codingninjas.com/codestudio/library/recursive-relationship)
