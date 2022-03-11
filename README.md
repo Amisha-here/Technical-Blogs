@@ -31,5 +31,18 @@
 12. [Syllabus Analysis for HWI](https://www.codingninjas.com/codestudio/library/syllabus-analysis-for-hwi)
 13. [HBase Admin API](https://www.codingninjas.com/codestudio/library/hbase-admin-api)
 
+## Februrary 2022
+1. [PL/SQL Object Oriented](https://www.codingninjas.com/codestudio/library/pl-sql-object-oriented) 
+2. [TCS Codevita Sample Question-1](https://www.codingninjas.com/codestudio/library/tcs-codevita-questions-1)
+3. [HBase Client API](https://www.codingninjas.com/codestudio/library/hbase-client-api)
+4. [PL/SQL Exception Handling](https://www.codingninjas.com/codestudio/library/pl-sql-exception-handling)
+5. [MySQL ngram full text parser](https://www.codingninjas.com/codestudio/library/mysql-ngram-full-text-parser)
+6. [Introduction to B Tree](https://www.codingninjas.com/codestudio/library/introduction-to-b-tree)
+7. [Firewall](https://www.codingninjas.com/codestudio/library/firewall)
+8. [MySQL Storage Engine](https://www.codingninjas.com/codestudio/library/mysql-storage-engine)
+9. [Digital Signature](https://www.codingninjas.com/codestudio/library/digital-signature)
+10. [Software Engineering: Function Oriented Design](https://www.codingninjas.com/codestudio/library/function-oriented-design)
+11. [Software Engineering: User Interface Design](https://www.codingninjas.com/codestudio/library/user-interface-design)
+12. [Software Engineering: Object Oriented Design](https://www.codingninjas.com/codestudio/library/object-oriented-design)
 
 
