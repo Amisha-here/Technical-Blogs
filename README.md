@@ -46,3 +46,18 @@
 12. [Software Engineering: Object Oriented Design](https://www.codingninjas.com/codestudio/library/object-oriented-design)
 
 
+## March 2022
+1. [QuickSort in Java](https://www.codingninjas.com/codestudio/library/quicksort-in-java)
+2. [Decision Making in C#](https://www.codingninjas.com/codestudio/library/decision-making-in-c)
+3. [Operators in C#](https://www.codingninjas.com/codestudio/library/operators-in-c)
+4. [Loop Controls in C#](https://www.codingninjas.com/codestudio/library/loop-controls-in-c)
+5. [Interfaces in C#](https://www.codingninjas.com/codestudio/library/interfaces-in-c)
+6. [C Program to insert an element in an array](https://www.codingninjas.com/codestudio/library/c-program-for-inserting-an-element-in-an-array)
+7. [Unordered MultiMap in C++](https://www.codingninjas.com/codestudio/library/unordered-multimap-in-c)
+8. [Reflection in C#](https://www.codingninjas.com/codestudio/library/reflection-in-c)
+9. [Role of BlockChain in Cloud Computing](https://www.codingninjas.com/codestudio/library/role-of-blockchain-in-cloud-computing)
+10. [OS Virtualization](https://www.codingninjas.com/codestudio/library/os-virtualization-in-cloud-computing)
+11. [Server Virtualisation](https://www.codingninjas.com/codestudio/library/server-virtualization)
+12. [Methods in C#](https://www.codingninjas.com/codestudio/library/methods-in-c)
+13. [GATE Questions for Transport Layer](https://www.codingninjas.com/codestudio/library/transport-layer-4531)
+
