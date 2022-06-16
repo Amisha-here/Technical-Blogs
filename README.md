@@ -61,3 +61,30 @@
 12. [Methods in C#](https://www.codingninjas.com/codestudio/library/methods-in-c)
 13. [GATE Questions for Transport Layer](https://www.codingninjas.com/codestudio/library/transport-layer-4531)
 
+
+## April 2022
+
+1. [Network Security](https://www.codingninjas.com/codestudio/library/network-security-4431)
+2. [File Organisation - DBMS](https://www.codingninjas.com/codestudio/library/file-organisation-sequential-files-indexing-b-and-b-trees)
+3. [Comments in WordPress](https://www.codingninjas.com/codestudio/library/comments-in-wordpress)
+4. [Editor in WordPress](https://www.codingninjas.com/codestudio/library/editor-in-wordpress)
+5. [Wix](https://www.codingninjas.com/codestudio/library/wix)
+6. [Testify](https://www.codingninjas.com/codestudio/library/testify)
+7. [AWS Cloud Directory](https://www.codingninjas.com/codestudio/library/aws-cloud-directory)
+8. [AWS Cloud Map](https://www.codingninjas.com/codestudio/library/aws-cloud-map)
+9. [AWS Application Discovery Service](https://www.codingninjas.com/codestudio/library/aws-application-discovery-service)
+10. [Libraries that use Redis](https://www.codingninjas.com/codestudio/library/libraries-that-use-redis)
+11. [Google Predicstion API](https://www.codingninjas.com/codestudio/library/google-prediction-api)
+
+
+## May 2022
+
+1. [Segmented Paging](https://www.codingninjas.com/codestudio/library/segmented-paging)
+2. [Boot Block and Bad Block](https://www.codingninjas.com/codestudio/library/boot-block-and-bad-block)
+3. [Amazon QuickSight](https://www.codingninjas.com/codestudio/library/amazon-quicksight)
+4. [Moving RigidBody in Unity](https://www.codingninjas.com/codestudio/library/moving-rigidbody)
+5. [AWS Command Line Interface](https://www.codingninjas.com/codestudio/library/aws-command-line-interface)
+6. [Shopify](https://www.codingninjas.com/codestudio/library/shopify)
+7. [Amazon EMR](https://www.codingninjas.com/codestudio/library/amazon-emr)
+8. [References of RediSearch](https://www.codingninjas.com/codestudio/library/references-of-redisearch)
+9. [Clients in Time Series](https://www.codingninjas.com/codestudio/library/clients-in-time-series)
